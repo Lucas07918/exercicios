@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(15, 15, 15);
+    height: 620px;
+    padding: 0 50px 0 50px;
+}
+
+input{
+    border-radius: 8px;
+    height: 30px;
+    border: none;
+    margin-top: 10px;
+}
+
+button{
+    border: none;
+    height: 35px;
+    width: 70px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: #00ff55;
+}
+
+p{
+    color: aliceblue;
+}
+
+strong{
+    color: aliceblue;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
